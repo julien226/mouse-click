@@ -1,2 +1,2 @@
 # mouse-click
-CAD based personal projects // .sldasm
+CAD-based personal projects // .sldasm
